@@ -1,0 +1,28 @@
+department_id,department,division
+1,First Aid,Healt
+2,Movies,Enterteiment
+3,Device Repair,Electronics
+4,Clothing,Home
+5,Toys,Enterteiment
+6,Computers,Electronics
+7,Children Clothing,Home
+8,Beauty,Healt
+9,Furniture,Home
+10,Garden,Home
+11,Jewelry,Home
+12,Decor,Home
+13,Tools,Enterteiment
+14,Pharmacy,Healt
+15,Books,Enterteiment
+16,Vitamins,Healt
+17,Camping,Enterteiment
+18,Games,Electronics
+19,Phones & Tablets,Electronics
+20,Cosmetics,Healt
+21,Sports,Enterteiment
+22,Automotive,Electronics
+23,Music,Enterteiment
+24,Grocery,Home
+25,Maintenance,Home
+26,Plumbing,Home
+27,Security,Electronics
