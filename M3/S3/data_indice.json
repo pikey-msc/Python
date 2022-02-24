@@ -1,0 +1,22 @@
+{
+    "0": {
+        "Name": "Anil",
+        "Age": 23,
+        "Height": 170
+    },
+    "1": {
+        "Name": "Biraj",
+        "Age": 25,
+        "Height": 168
+    },
+    "2": {
+        "Name": "Apil",
+        "Age": 26,
+        "Height": 174
+    },
+    "3": {
+        "Name": "Kapil",
+        "Age": 20,
+        "Height": 165
+    }
+}
